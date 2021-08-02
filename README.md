@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @N1ghtylx
+- 👀 I’m interested in Discord Bot Development
+- 🌱 I’m currently learning Javascript
